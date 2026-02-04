@@ -35,9 +35,6 @@ export default function Home() {
             - Value should stay where it’s created.
           </Text>
         </View>
-        <View width={160} maxWidth="300px">
-          <Form />
-        </View>
       </View>
     </View>
   );
